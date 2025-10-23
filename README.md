@@ -1,2 +1,1 @@
-# time-travel-ajoby
-This repository for the Git, Maven and Graphviz assignment
+I am learning Software QA and Testing using Git, Maven and Graphviz. This is my time travel magazine project.
